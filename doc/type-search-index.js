@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"ServiceProxy","l":"ApiServerVerticle"},{"p":"ServiceProxy","l":"CalculatorService"},{"p":"ServiceProxy","l":"CalculatorServiceImpl"},{"p":"ServiceProxy","l":"CalculatorServiceStarter"},{"p":"ServiceProxy","l":"CalculatorVerticle"},{"p":"ServiceProxy","l":"RabbitMqVerticle"}]

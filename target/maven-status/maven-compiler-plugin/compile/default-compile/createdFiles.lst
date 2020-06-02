@@ -1,0 +1,9 @@
+ServiceProxy\ApiServerVerticle.class
+ServiceProxy\CalculatorService.class
+ServiceProxy\RabbitMqVerticle.class
+ServiceProxy\CalculatorVerticle.class
+ServiceProxy\package-info.class
+ServiceProxy\CalculatorServiceStarter.class
+ServiceProxy\CalculatorServiceVertxProxyHandler.class
+ServiceProxy\CalculatorServiceImpl.class
+ServiceProxy\CalculatorServiceVertxEBProxy.class
