@@ -8,7 +8,7 @@
 		<maven.compiler.source>13</maven.compiler.source>
 		<maven.compiler.target>13</maven.compiler.target>
 		<jackson.version>2.9.7</jackson.version>
-		<stack.version>3.9.0</stack.version>
+		<stack.version>3.9.4</stack.version>
 		<vertx.version>3.9.0</vertx.version>
     	<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     	<main.verticle>CalculatorServiceStarter</main.verticle>
